@@ -1,5 +1,4 @@
 
-/* Font and background */
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: #f2f4f8;
@@ -25,7 +24,6 @@ nav a:hover {
   color: #ffcc00;
 }
 
-/* Background container for content with padding */
 .background-container {
   max-width: 900px;
   margin: 2rem auto;
@@ -35,14 +33,12 @@ nav a:hover {
   padding: 2rem;
 }
 
-/* Content boxes (divs) */
 .content-box {
   margin-bottom: 3rem;
   padding: 1rem;
   border-left: 5px solid #004080;
 }
 
-/* Image styling */
 img {
   display: block;
   margin-top: 1rem;
@@ -51,18 +47,16 @@ img {
   border-radius: 8px;
 }
 
-/* Headings */
 h1, h2 {
   color: #004080;
 }
 
-/* Lists */
 ol, ul {
   margin-left: 1.5rem;
   margin-bottom: 1rem;
 }
 
-/* Tableau container override */
+
 .tableauPlaceholder {
   margin-top: 1rem;
   text-align: center;
